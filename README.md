@@ -9,3 +9,7 @@ This repository contains the solutions for programming exercises submitted as pa
 ## 2. Let the Tensors board?
 
 - Got to know TensorBoard, Tensorflow’s built-in visualization suite, and used it to diagnose some common problems with training deep models. 
+
+## 3. Keras and CNN
+
+- Got to know Keras, the high-level neural network API in Tensorflow. Also created a better model for the MNIST dataset using convolutional neural networks.
