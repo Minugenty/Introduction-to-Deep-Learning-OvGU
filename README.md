@@ -13,3 +13,7 @@ This repository contains the solutions for programming exercises submitted as pa
 ## 3. Keras and CNN
 
 - Got to know Keras, the high-level neural network API in Tensorflow. Also created a better model for the MNIST dataset using convolutional neural networks.
+
+## 4. ResNets
+
+- Experimenting ResNet on CIFAR-10 
