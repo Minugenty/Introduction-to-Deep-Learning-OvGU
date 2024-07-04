@@ -17,3 +17,9 @@ This repository contains the solutions for programming exercises submitted as pa
 ## 4. ResNets
 
 - Experimenting ResNet on CIFAR-10 
+
+## 5. Text Classification with RNNs (Part 1)
+
+ - Experimented how to assign a single label to input sequences of arbitrary length - text. 
+ - Implemented RNNs at the low level. 
+ - Explored the kinds of problems that arise when working with sequence data, specifically text.
