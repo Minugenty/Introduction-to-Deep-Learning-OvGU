@@ -23,3 +23,9 @@ This repository contains the solutions for programming exercises submitted as pa
  - Experimented how to assign a single label to input sequences of arbitrary length - text. 
  - Implemented RNNs at the low level. 
  - Explored the kinds of problems that arise when working with sequence data, specifically text.
+
+ ## 6. Text Classification with RNN (Part 2)
+
+ - Experimented on ways to improve the previous implementation. 
+ - Implemented RNN using Keras to simplify the code. 
+ - Used more advanced architectures such as LSTMs, stacked RNNs, bidirectional RNNs.
