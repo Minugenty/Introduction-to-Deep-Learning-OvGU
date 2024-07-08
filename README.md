@@ -29,3 +29,9 @@ This repository contains the solutions for programming exercises submitted as pa
  - Experimented on ways to improve the previous implementation. 
  - Implemented RNN using Keras to simplify the code. 
  - Used more advanced architectures such as LSTMs, stacked RNNs, bidirectional RNNs.
+
+ ## 7. Attention-based Neural Machine Translation
+  
+  - Implemented a model for neural machine translation using a Transformer, following a TF tutorial.
+
+
