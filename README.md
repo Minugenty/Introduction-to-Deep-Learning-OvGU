@@ -34,4 +34,9 @@ This repository contains the solutions for programming exercises submitted as pa
   
   - Implemented a model for neural machine translation using a Transformer, following a TF tutorial.
 
+  ## 8. Word2Vec
+  - Experiment an example of self-supervised learning, where we have data without labels, and are constructing a task directly from the data (often some kind of prediction task) in order to learn deep representations,
+  - Understand how Softmax with a very large number of classes is problematic, and getting to know possible workarounds.
+  - Explored the idea of word embeddings.
+
 
