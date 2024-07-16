@@ -39,4 +39,8 @@ This repository contains the solutions for programming exercises submitted as pa
   - Understand how Softmax with a very large number of classes is problematic, and getting to know possible workarounds.
   - Explored the idea of word embeddings.
 
+  ## 9. Introspection
+  - Implemented gradient-based model analysis both for creating saliency maps (local) and for feature visualization (global). 
+
+
 
