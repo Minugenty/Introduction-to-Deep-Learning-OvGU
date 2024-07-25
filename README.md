@@ -42,5 +42,14 @@ This repository contains the solutions for programming exercises submitted as pa
   ## 9. Introspection
   - Implemented gradient-based model analysis both for creating saliency maps (local) and for feature visualization (global). 
 
+  ## 10. Self-Supervised Learning
+  - Explored self-supervised methods for extracting features from unlabeled data, and then use those features for supervised tasks.
+    - Define a self-supervised task.
+    - Build a network to solve the task. 
+    - Train the model.
+    - Build a small “classification head” on top of the self-supervised model.
+    - Train the classification network on labeled data.
+
+
 
 
