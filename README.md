@@ -50,6 +50,9 @@ This repository contains the solutions for programming exercises submitted as pa
     - Build a small “classification head” on top of the self-supervised model.
     - Train the classification network on labeled data.
 
+  ## 11. Adversarial Examples & Training
+ - Explored the phenomenon of adversarial examples and how to defend against them.
+
 
 
 
